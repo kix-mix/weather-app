@@ -1,0 +1,69 @@
+body {
+  background: #ffebd4;
+}
+.card-body {
+  text-align: center;
+  background: #ebcdd6;
+}
+.card.w-50 {
+  margin-right: 0px;
+  margin-left: auto;
+  top: -700px;
+  position: relative;
+}
+.card-title {
+  font-size: 30px;
+  font-weight: 700;
+}
+.celsius {
+  font-size: 50px;
+}
+.col-4 {
+  margin-top: 30px;
+}
+.col-12 {
+  margin-top: -20px;
+}
+.current-time {
+  margin-left: 210px;
+}
+.daily-temp {
+  font-size: 30px;
+  font-weight: 700;
+}
+.feels-like {
+  margin-left: 218px;
+}
+.forecast {
+  position: relative;
+  left: 450px;
+  top: -350px;
+  width: auto;
+}
+h1 {
+  margin-left: 180px;
+}
+hr {
+  width: 100px;
+  display: block;
+  margin-left: 215px;
+}
+.units {
+  margin-right: 20px;
+}
+#search {
+  background: #ffba6b;
+}
+.sunrise-sunset {
+  margin-left: 80px;
+  position: relative;
+  top: -70px;
+}
+.temperature {
+  font-size: 150px;
+}
+.temp-illustration {
+  margin-left: 100px;
+  position: relative;
+  top: -40px;
+}
